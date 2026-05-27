@@ -1,8 +1,8 @@
 {
     "ios": {
-          "latest": "1.0.3",
+          "latest": "1.1.0",
           "minimum": "1.0.0",
-          "releaseNotes": "・テーマ設定が再起動後も保持されるよう修正"
+          "releaseNotes": "・家計簿の金額入力に＋／－ボタンを追加（Excel風に加減算ができます）"
     },
     "android": {
           "latest": "1.0.2",
